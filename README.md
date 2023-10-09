@@ -1,6 +1,5 @@
 
-# fake_job_prediction
----
+# fake job prediction
 
 ![image](https://github.com/momin305/fake_job_prediction/assets/77921588/27063e3e-d3c3-4208-95f6-50b54e593225)
 
@@ -13,7 +12,7 @@ This rise in unemployment has set the stage for scammers to prey upon the people
 For this, we decided to investigate the occurrences of fraud in job interviews collected in a database. Using different classification methods known in the literature. Thus, we will analyze their proficiency in classifying a possible fraud of a proposal in order to help unemployed people.
 
 # Overview
-----
+
 
 The "Real or Fake Job Description Prediction" dataset is a collection of job descriptions, containing approximately 18,000 entries, of which around 800 are labeled as fake. This dataset comprises both textual information and meta-information about job listings. The primary objective of this dataset is to facilitate the development of classification models that can identify fraudulent job descriptions among the listings.
 
